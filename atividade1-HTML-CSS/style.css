@@ -1,0 +1,30 @@
+.div_A{
+    background-color: rgb(62, 21, 116);
+    height: 500px;
+    width: 100%;
+}
+
+.div_B{
+    background-color: rgb(255, 236, 172);
+    height: 90%;
+    width: 50%;
+}
+
+.div_D{
+    background-color: rgb(134, 146, 255);
+    height: 200px;
+    width: 100%;
+}
+
+.div_E{
+    background-color: rgb(184, 34, 189);
+    height: 50%;
+    width: 70%;
+}
+
+p{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(0, 136, 255);
+}
